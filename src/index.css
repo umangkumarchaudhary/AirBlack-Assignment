@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "RocaOne-Rg";
+  src: url("./assets/fonts/RocaOne-Rg/RocaOne-Rg.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
