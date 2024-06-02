@@ -7,7 +7,7 @@ const App = () => {
     <div className="min-h-screen md:max-w-[375px] md:m-auto lg:max-w-[375px] lg:m-auto bg-backgroundColor">
       <Home />
       <div className="fixed bottom-0 z-50 right-0">
-        <a href="https://github.com/priyanshugarg1010/airblack" target="blank">
+        <a href="https://github.com/umangkumarchaudhary/AirBlack-Assignment" target="blank">
           <Lottie
             animationData={github}
             style={{ height: "100px" }}
